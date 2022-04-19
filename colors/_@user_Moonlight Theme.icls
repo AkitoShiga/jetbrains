@@ -4,7 +4,7 @@
     <property name="created">2022-04-19T23:03:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-19T23:23:07</property>
+    <property name="modified">2022-04-19T23:33:44</property>
     <property name="originalScheme">Moonlight Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -18,8 +18,8 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="HackGenNerd Console" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -388,7 +388,6 @@
       <value>
         <option name="FOREGROUND" value="7fdbca" />
         <option name="EFFECT_COLOR" value="7fdbca" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -3549,6 +3548,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="444a73" />
+        <option name="ERROR_STRIPE_COLOR" value="6169a4" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
