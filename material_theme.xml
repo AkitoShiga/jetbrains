@@ -1,7 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="5b91ff" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="4f5778" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="16677eb5:180422f5978:-8000" />
     <option name="version" value="7.5.2.2" />
