@@ -1,12 +1,14 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-04-19T23:17:20</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-19T23:19:31</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="created">2022-06-18T01:33:20</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
+    <property name="modified">2022-06-18T01:33:24</property>
+    <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
+    <option name="CARET_ROW_COLOR" value="21252b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -20,5 +22,14 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="GUTTER_BACKGROUND" value="21252b" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
