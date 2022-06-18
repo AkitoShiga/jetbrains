@@ -4,7 +4,7 @@
     <property name="created">2022-06-18T01:38:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-18T01:42:44</property>
+    <property name="modified">2022-06-19T03:20:12</property>
     <property name="originalScheme">Lotus Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1029,6 +1029,41 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffd866" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="f4f1fb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0f7f7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="f9f8f5" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="fff4f3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="ffedf0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffe7ec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9b8bc" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

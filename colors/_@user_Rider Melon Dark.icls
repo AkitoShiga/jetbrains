@@ -3,7 +3,7 @@
     <property name="created">2022-06-18T00:17:48</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-18T00:47:22</property>
+    <property name="modified">2022-06-19T03:20:12</property>
     <property name="originalScheme">Rider Melon Dark</property>
   </metaInfo>
   <colors>
@@ -946,6 +946,41 @@
       <value>
         <option name="BACKGROUND" value="232e46" />
         <option name="ERROR_STRIPE_COLOR" value="293a5f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3e3f43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3b4340" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="42443f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="46413d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="463c3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="463738" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="412424" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
